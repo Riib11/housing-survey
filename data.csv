@@ -1,0 +1,17 @@
+ID,"How long, typically, does it take you to travel from your housing to campus (in minutes)?",What method do you typically use to travel to and from campus?,How far from campus do you live (in miles)?,How many other students do you live with?,Do you live with any non-students?,"How much is your rent each month, per person (including utilities)?","Do you have a meal plan with Reed Commons? If so, which?","How many semesters do you plan to stay at your current housing, including past semesters?",Do you stay at your current housing outside of the academic year?
+0,20,Walking,1.5,0,Yes,600,No,2,Some or all of Winter and Summer
+1,30,Public Transportation,3,3,No,650,No,2,Some or all of Winter and Summer
+2,10,Walking,0.5,3,Yes,550,No,4,Some or all of Winter and Summer
+3,15,Biking,1.2,1,No,800,No,4,Some or all of Summer
+4,12,Walking,1.4,2,No,475,No,2,No
+5,10,Walking,0.7,4,No,600,No,2,Some or all of Winter and Summer
+6,15,Walking,0.8,1,No,712,No,2,Some or all of Summer
+7,30,Biking,5.4,0,Yes,580,No,2,Some or all of Winter
+8,5,Driving (not carpool),2,3,No,650,No,3,Some or all of Winter and Summer
+9,45,Public Transportation,6,1,No,750,No,2,Some or all of Summer
+10,10,Driving (not carpool),3,0,Yes,560,No,4,Some or all of Summer
+11,15,Public Transportation,2,0,Yes,600,No,3,Some or all of Summer
+12,15,Walking,0.1,0,Yes,1500,No,0,Some or all of Winter and Summer
+13,5,Driving (not carpool),2,1,Yes,717,No,4,Some or all of Winter and Summer
+14,5,Driving (not carpool),1.5,4,No,650,No,2,Some or all of Summer
+15,35,Driving (not carpool),15,0,Yes,950,No,6,Some or all of Winter and Summer
